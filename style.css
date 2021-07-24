@@ -1,0 +1,25 @@
+body{
+background: linear-gradient(to right, #021036, #197caa);
+}
+table{
+    color: #ffffff;
+    background-color: linear-gradient(to right, #2b64ff, #197caa);
+    font-size: 16px;
+    font-family: sans-serif;
+    padding: 5px;
+    border: 5px solid white;
+    text-align: center;
+    border-collapse: collapse;
+}
+#name {
+    width: 80%;
+    padding: 5px;
+    border-radius: 5%;
+    outline: 0;
+    border: 1px solid lightgray;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color: #ffffff;
+}
